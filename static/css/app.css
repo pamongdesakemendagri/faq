@@ -143,3 +143,8 @@ textarea {
     text-align: center;
     color: var(--bs-secondary);
 }
+
+.solusi {
+    max-width: 100%;
+    word-wrap: break-word;
+}
